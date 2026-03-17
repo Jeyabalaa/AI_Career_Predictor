@@ -1,0 +1,1 @@
+web: gunicorn AI-Career-Predictor.wsgi
